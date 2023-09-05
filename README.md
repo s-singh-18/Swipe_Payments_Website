@@ -73,7 +73,11 @@ cd Swipe_Payments_Website
 <br></br>
 <br></br>
 ![Screenshot (5)](https://github.com/s-singh-18/Swipe_Payments_Website/assets/113829267/7cd790ef-bda9-4aee-bf86-a03cf8b60261)
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-![Screenshot (6)](https://github.com/s-singh-18/Swipe_Payments_Website/assets/113829267/843aee4f-7f49-4431-9407-1e82b7d3a875)
+<br></br>
+<br></br>
+![Screenshot (7)](https://github.com/s-singh-18/Swipe_Payments_Website/assets/113829267/e226458f-3ca0-4756-8863-a53335b594d8)
+<br></br>
+<br></br>
+![Screenshot (8)](https://github.com/s-singh-18/Swipe_Payments_Website/assets/113829267/15162789-93d9-4ad5-afd8-217a384f8bc8)
 <br></br>
 <br></br>
