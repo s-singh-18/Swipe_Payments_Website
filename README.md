@@ -1,5 +1,5 @@
 # Swipe Payments Website
-<img src="https://github.com/s-singh-18/Swipe_Payments_Website/blob/main/logo-dark.png">
+![logo-dark](https://github.com/s-singh-18/Swipe_Payments_Website/assets/113829267/4c546a3d-b25b-4e4d-8ad5-f20ddb5eea9f)
 
 A web-based payment management system designed to streamline financial transactions.
 
@@ -9,6 +9,7 @@ A web-based payment management system designed to streamline financial transacti
 - Technologies Used
 - Getting Started
 - Screenshots
+- Acknowledgement
 
 ## About
 Swipe is a static website template that serves as a foundation for building a dynamic and feature-rich payments infrastructure website. This template showcases the potential functionalities and design elements that a live Swipe website can offer. While the template itself is static, it is designed to help developers understand the structure and layout of a Swipe website and can serve as a starting point for creating a fully functional payments infrastructure platform.
@@ -59,3 +60,20 @@ cd Swipe_Payments_Website
 **Testing:** Thoroughly test the functionality to ensure a seamless user experience.
 
 ## Screenshots
+![Screenshot (1)](https://github.com/s-singh-18/Swipe_Payments_Website/assets/113829267/949c5263-6f9b-4022-9456-c2127a94856c)
+<br></br>
+<br></br>
+![Screenshot (2)](https://github.com/s-singh-18/Swipe_Payments_Website/assets/113829267/6ed274fd-57a7-44a3-b18d-416d1c75821a)
+<br></br>
+<br></br>
+![Screenshot (3)](https://github.com/s-singh-18/Swipe_Payments_Website/assets/113829267/26330af9-450e-481c-a4c5-409d86674e97)
+<br></br>
+<br></br>
+![Screenshot (4)](https://github.com/s-singh-18/Swipe_Payments_Website/assets/113829267/8af363cf-c347-46db-b016-cef1a73c9375)
+<br></br>
+<br></br>
+![Screenshot (5)](https://github.com/s-singh-18/Swipe_Payments_Website/assets/113829267/7cd790ef-bda9-4aee-bf86-a03cf8b60261)
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+![Screenshot (6)](https://github.com/s-singh-18/Swipe_Payments_Website/assets/113829267/843aee4f-7f49-4431-9407-1e82b7d3a875)
+<br></br>
+<br></br>
